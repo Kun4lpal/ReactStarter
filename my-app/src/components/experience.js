@@ -3,10 +3,6 @@ import { Grid, Cell } from 'react-mdl';
 class Experience extends Component {
     render() {
         return (
-            // <div>
-            //     <h1>Experience</h1>
-            //     <h4>{this.props.startYear}</h4>
-            // </div>
             <Grid>
                 <Cell col={4}>
                     <p>
